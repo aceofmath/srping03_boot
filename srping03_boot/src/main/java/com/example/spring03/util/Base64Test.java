@@ -44,6 +44,9 @@ public class Base64Test {
 	
 	private static String decodeBase64(String str) {
 		
+		//4.10-1
+		//4.10-2
+		
 		return new String(Base64.decodeBase64(str.getBytes()));
 	}
 	
