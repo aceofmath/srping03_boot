@@ -35,6 +35,8 @@ public class Base64Test {
 		
 		result_str = new String(encodedBytes);
 		
+		//
+		
 		return result_str;
 
 	}
